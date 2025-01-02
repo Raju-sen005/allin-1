@@ -1,0 +1,183 @@
+body {
+  background: #04f5fd;
+}
+#Menu {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Insta {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Face {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Twitt {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Chorme {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Telly {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#What {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Can {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Git {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
+#Link {
+  display: flex;
+  position: relative;
+  left: 4%;
+  top: 18px;
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 30px;
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: indigo;
+  cursor: pointer;
+}
